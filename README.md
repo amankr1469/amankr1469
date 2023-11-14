@@ -1,4 +1,3 @@
-[![MasterHead](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)]()
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">Full Stack Web Dev and Blockchain enthusiast from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
