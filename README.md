@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">Full Stack Web Dev and Blockchain enthusiast from India.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
+<img align="right"  alt="Coding" width="560" src="https://github.githubassets.com/assets/profile-first-issue-0f4321e8c25b.svg" />
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me:
 
