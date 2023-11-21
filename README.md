@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Web3 Domain.**
 
-- 💬 Ask me about **Full Stack Web Dev & Blockchain**
+- 💬 Ask me about **Full Stack Web Dev, Blockchain & DSA**
 
 - 📫 How to reach me **akjha1469@gmail.com**
 
