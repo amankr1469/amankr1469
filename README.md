@@ -16,10 +16,10 @@
 
 ##  <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Socials:
 <p align="left">
-<a href="https://twitter.com/iaman1469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaman1469" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman-kumar-414a35218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-414a35218" height="30" width="40" /></a>
-<a href="https://instagram.com/iaman.1469_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaman.1469_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/guts1469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guts1469" height="30" width="40" /></a>
+<a href="https://twitter.com/iaman1469" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaman1469" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-kumar-414a35218" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-414a35218" height="30" width="40" /></a>
+<a href="https://instagram.com/iaman.1469_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaman.1469_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/guts1469" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guts1469" height="30" width="40" /></a>
 </p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />  Tech Stack  :
