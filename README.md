@@ -1,3 +1,4 @@
+<h1 align="center"><img src="https://intenseclick.com/wp-content/uploads/2017/06/Play-Chrome-Dinosaur-Game.gif" /></h1>
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">Full Stack Web Dev and Blockchain enthusiast from India.</h3>
 <img align="right"  alt="Coding" width="560" src="https://github.githubassets.com/assets/profile-first-issue-0f4321e8c25b.svg" />
