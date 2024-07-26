@@ -5,11 +5,9 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me:
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👯 I’m looking to collaborate on **Web3 projects.**
-
-- 🤝 I’m looking for help with **Web3 Domain.**
 
 - 💬 Ask me about **Full Stack Web Dev, Blockchain & DSA**
 
