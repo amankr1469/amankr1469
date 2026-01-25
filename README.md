@@ -5,9 +5,7 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me:
 
-- 🌱 I’m currently learning **Ruby on Rails**
-
-- 👯 I’m looking to collaborate on **Web3 projects.**
+- 🌱 I’m currently learning **Distributed Architecture and Designs**
 
 - 💬 Ask me about **Full Stack Web Dev, Blockchain & DSA**
 
@@ -15,9 +13,9 @@
 
 ##  <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Socials:
 <p align="center">
-<a href="https://twitter.com/iaman1469" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iaman1469" height="30" width="40" /></a>
+<a href="https://x.com/sde_aman" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sde_aman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-kumar-414a35218" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-414a35218" height="30" width="40" /></a>
-<a href="https://instagram.com/amankr.eth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amankr.eth" height="30" width="40" /></a>
+<a href="https://instagram.com/0xguts" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amankr.eth" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/guts1469" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="guts1469" height="30" width="40" /></a>
 </p>
 
